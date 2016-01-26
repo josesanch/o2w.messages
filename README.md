@@ -15,7 +15,8 @@ To push messages to the queue.
 
 ## Setup
 In your project you would need to include the dependency.
-[o2w.messages "0.1.0"]
+
+    [o2w.messages "0.1.0"]
 
 ## License
 
